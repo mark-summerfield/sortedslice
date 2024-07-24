@@ -2,8 +2,6 @@ sortedslice.go
 
 sortedslice_test.go
 
-README.md
-
 go.mod
 
 st.sh
