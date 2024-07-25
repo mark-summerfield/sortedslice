@@ -1,5 +1,7 @@
 // Copyright © 2024 Mark Summerfield. All rights reserved.
 
+// This package provides a sorted slice, maintaining order using binary
+// search.
 package sortedslice
 
 import (
