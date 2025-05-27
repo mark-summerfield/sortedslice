@@ -1,7 +1,7 @@
 // Copyright © 2024 Mark Summerfield. All rights reserved.
 
-// This package provides a sorted slice, maintaining order using binary
-// search. ([TOC])
+// ([TOC]) This package provides a sorted slice, maintaining order using
+// binary search.
 //
 // [TOC]: file:///home/mark/app/golib/doc/index.html
 package sortedslice
